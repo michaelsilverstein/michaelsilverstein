@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hey!
+
+I love Python, microbial communities, and figuring out how to use them to combat climate change. You can learn more about me here: https://michaelsilverstein.github.io/
 
 <!--
 **michaelsilverstein/michaelsilverstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
