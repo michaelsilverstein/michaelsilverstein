@@ -1,4 +1,4 @@
-# Hey!
+# Hey👋!
 
 I love Python, microbial communities, and figuring out how to use them to combat climate change. You can learn more about me here: https://michaelsilverstein.github.io/
 
